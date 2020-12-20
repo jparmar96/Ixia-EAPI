@@ -3,6 +3,7 @@
 #For python3: pip install jsonrpclib-pelix
 #For python2: pip install jsonrpclib
 from jsonrpclib import Server
+from ixnetwork_restpy import SessionAssistant
 from pprint import pprint
 import jinja2
 import os
